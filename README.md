@@ -51,21 +51,30 @@
 ### 📈 Un poco de stats (porque a todos nos gustan los gráficos)
 
 
-<div align="center">
+<table>
+  <tr>
+    <td>
 
-<!-- Stats -->
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=analistaNFCperu&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false"
-  height="180"
-/>
+**Resumen rápido**
 
-<!-- Lenguajes -->
-<img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=analistaNFCperu&layout=compact&theme=tokyonight&border_radius=10"
-  height="180"
-/>
+- ⭐ Repos públicos: en crecimiento  
+- ✅ Commits: enfocada en proyectos reales (Odoo, n8n, automatización)  
+- 🧩 Áreas: ERP, flujos de negocio, integración de sistemas  
 
-</div>
+   </td>
+   <td>
+
+**Stack principal**
+
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6A3C?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+   </td>
+  </tr>
+</table>
 
 ---
 
