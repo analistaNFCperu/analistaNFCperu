@@ -50,21 +50,22 @@
 
 ### 📈 Un poco de stats (porque a todos nos gustan los gráficos)
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=analistaNFCperu&show_icons=true&theme=tokyonight"
-    alt="GitHub stats de analistaNFCperu"
-    height="180"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=analistaNFCperu&layout=compact&theme=tokyonight"
-    alt="Lenguajes más usados"
-    height="180"
-  />
-</p>
+<div align="center">
+
+<!-- Stats -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=analistaNFCperu&show_icons=true&theme=tokyonight&border_radius=10&hide_title=false"
+  height="180"
+/>
+
+<!-- Lenguajes -->
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=analistaNFCperu&layout=compact&theme=tokyonight&border_radius=10"
+  height="180"
+/>
+
+</div>
 
 ---
 
